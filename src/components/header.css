@@ -1,0 +1,17 @@
+.header{
+    background-color: thistle;
+}
+ul{
+    list-style-type: none;
+    margin-left: 1000px;   
+     padding: 20px;
+
+}
+li{
+    display: inline;
+    padding:20px;
+    
+}
+h1{
+    text-align: center;
+}
